@@ -56,7 +56,7 @@ export default function Home() {
 
           {/* IMAGE */}
           <img
-            src="/Whatsapp Image 2026-02-01.jpg"
+            src="/WhatsApp Image 2026-02-01 at 21.06.39.jpeg"
             alt="KRIDHA Packaged Drinking Water Supplier in Varanasi"
             className="image"
           />
