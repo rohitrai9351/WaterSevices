@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://water-sevices.vercel.app/sitemap.xml
+```
+
+### **Your public folder should now look like this:**
+```
+public/
+├── whatsapp-2026-02-01.jpeg  (your image)
+├── sitemap.xml               (NEW)
+└── robots.txt                (NEW)
