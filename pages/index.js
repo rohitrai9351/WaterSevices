@@ -8,6 +8,7 @@ export default function Home() {
     <>
       <Head>
         <title>KRIDHA Packaged Drinking Water | Vedika Enterprises</title>
+        <meta name="google-site-verification" content="M4MKkeTuzVuQ55IuSMpDeeIcOJ6VlZlP9JUZkmDtzbs" />
 
         <meta
           name="description"
